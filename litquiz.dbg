@@ -1,0 +1,606 @@
+---> int main(int, char**) /media/Infinity/dev/BasicGames/b2c/b2c.cpp[2104]
+    Opened input file
+    Opened vars file
+    Parsing ...
+    Processing line 1!
+    (LEX)TK_Integer=10 YYSTATE=0
+    Processing line 2!
+    (LEX)TK_Integer=20 YYSTATE=0
+    Processing line 3!
+    (LEX)TK_Integer=30 YYSTATE=0
+    Processing line 4!
+    (LEX)TK_Integer=40 YYSTATE=0
+    Processing line 5!
+    (LEX)TK_Integer=50 YYSTATE=0
+    Processing line 6!
+    (LEX)TK_Integer=60 YYSTATE=0
+    Processing line 7!
+    (LEX)TK_Integer=70 YYSTATE=0
+    Processing line 8!
+    (LEX)TK_Integer=80 YYSTATE=0
+    Processing line 9!
+    (LEX)TK_Integer=90 YYSTATE=0
+    Processing line 10!
+    (LEX)TK_Integer=100 YYSTATE=0
+    Processing line 11!
+    (LEX)TK_Integer=105 YYSTATE=0
+    (LEX)TK_Cls='CLS'
+    Processing line 12!
+    (LEX)TK_Integer=110 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'T'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_Tab<PrintStmt>='TAB'
+        printfield = 1
+        yytext     = 'TAB'
+        LastToken  = '303'
+        printfield = 3
+        yytext     = '('
+        LastToken  = '318'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=25
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 5
+        yytext     = '"LITERATURE QUIZ"'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)="LITERATURE QUIZ"
+    Processing line 13!
+    (LEX)TK_Integer=120 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'T'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_Tab<PrintStmt>='TAB'
+        printfield = 1
+        yytext     = 'TAB'
+        LastToken  = '303'
+        printfield = 3
+        yytext     = '('
+        LastToken  = '318'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=15
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+        printfield = 5
+        yytext     = '"CREATIVE COMPUTING MORRISTOWN, NEW JERSEY"'
+        LastToken  = '59'
+    (LEX)TK_QuoteString(PRINTSTMT)="CREATIVE COMPUTING MORRISTOWN, NEW JERSEY"
+    Processing line 14!
+    (LEX)TK_Integer=130 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 15!
+    (LEX)TK_Integer=140 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=R
+    (normal)basiclval.stype='R'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=0 YYSTATE=3
+    Processing line 16!
+    (LEX)TK_Integer=150 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TEST YOUR KNOWLEDGE OF CHILDREN'S LITERATURE."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TEST YOUR KNOWLEDGE OF CHILDREN'S LITERATURE."
+    Processing line 17!
+    (LEX)TK_Integer=160 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"THIS IS A MULTIPLE-CHOICE QUIZ."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="THIS IS A MULTIPLE-CHOICE QUIZ."
+    Processing line 18!
+    (LEX)TK_Integer=170 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TYPE A 1, 2, 3, OR 4 AFTER THE QUESTION MARK."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TYPE A 1, 2, 3, OR 4 AFTER THE QUESTION MARK."
+    Processing line 19!
+    (LEX)TK_Integer=180 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"GOOD LUCK!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="GOOD LUCK!"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 20!
+    (LEX)TK_Integer=190 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"IN PINOCCHIO, WHAT WAS THE NAME OF THE CAT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="IN PINOCCHIO, WHAT WAS THE NAME OF THE CAT."
+    Processing line 21!
+    (LEX)TK_Integer=200 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1)TIGGER, 2)CICERO, 3)FIGARO, 4)GUIPETTO"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1)TIGGER, 2)CICERO, 3)FIGARO, 4)GUIPETTO"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 22!
+    (LEX)TK_Integer=210 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=1000 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    Processing line 23!
+    (LEX)TK_Integer=220 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"SORRY...FIGARO WAS HIS NAME."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="SORRY...FIGARO WAS HIS NAME."
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=250 YYSTATE=3
+    Processing line 24!
+    (LEX)TK_Integer=230 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = '"'
+        yytext     = ' '
+        LastToken  = '303'
+        printfield = 1
+        yytext     = '"VERY GOOD!  HERE'S ANOTHER."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="VERY GOOD!  HERE'S ANOTHER."
+    Processing line 25!
+    (LEX)TK_Integer=240 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=600 YYSTATE=3
+    Processing line 26!
+    (LEX)TK_Integer=250 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 27!
+    (LEX)TK_Integer=260 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"FROM WHOSE GARDEN DID BUGS BUNNY STEAL THE CARROTS ?"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="FROM WHOSE GARDEN DID BUGS BUNNY STEAL THE CARROTS ?"
+    Processing line 28!
+    (LEX)TK_Integer=270 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1)MR. NIXON'S 2)ELMER FUDD'S, 3)CLEM JUDD'S, 4)STROMBOLI'S"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1)MR. NIXON'S 2)ELMER FUDD'S, 3)CLEM JUDD'S, 4)STROMBOLI'S"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 29!
+    (LEX)TK_Integer=275 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=1000 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    Processing line 30!
+    (LEX)TK_Integer=280 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=A
+    (normal)basiclval.stype='A'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=2 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=300 YYSTATE=3
+    Processing line 31!
+    (LEX)TK_Integer=290 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"TOO BAD....IT WAS ELMER FUDD'S GARDEN."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="TOO BAD....IT WAS ELMER FUDD'S GARDEN."
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=320 YYSTATE=3
+    Processing line 32!
+    (LEX)TK_Integer=300 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"PRETTY GOOD!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="PRETTY GOOD!"
+    Processing line 33!
+    (LEX)TK_Integer=310 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=600 YYSTATE=3
+    Processing line 34!
+    (LEX)TK_Integer=320 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 35!
+    (LEX)TK_Integer=330 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = '"'
+        yytext     = ' '
+        LastToken  = '303'
+        printfield = 1
+        yytext     = '"IN THE WIZARD OF OZ DORTHY'S DOG WAS NAMED ?"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="IN THE WIZARD OF OZ DORTHY'S DOG WAS NAMED ?"
+    Processing line 36!
+    (LEX)TK_Integer=340 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1)CICERO, 2)TRIXIE, 3)KING, 4)TOTO"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1)CICERO, 2)TRIXIE, 3)KING, 4)TOTO"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 37!
+    (LEX)TK_Integer=350 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=1000 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    Processing line 38!
+    (LEX)TK_Integer=360 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"BACK TO THE BOOKS,....TOTO WAS HIS NAME."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="BACK TO THE BOOKS,....TOTO WAS HIS NAME."
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=390 YYSTATE=3
+    Processing line 39!
+    (LEX)TK_Integer=370 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YEA!  YOU'RE A REAL LITERATURE GIANT."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YEA!  YOU'RE A REAL LITERATURE GIANT."
+    Processing line 40!
+    (LEX)TK_Integer=380 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=600 YYSTATE=3
+    Processing line 41!
+    (LEX)TK_Integer=390 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 42!
+    (LEX)TK_Integer=400 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"WHO WAS THE FAIR MAIDEN WHO ATE THE POISON APPLE ?"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="WHO WAS THE FAIR MAIDEN WHO ATE THE POISON APPLE ?"
+    Processing line 43!
+    (LEX)TK_Integer=410 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"1)SLEEPING BEAUTY, 2)CINDERELLA, 3)SNOW WHITE, 4)WENDY"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="1)SLEEPING BEAUTY, 2)CINDERELLA, 3)SNOW WHITE, 4)WENDY"
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    Processing line 44!
+    (LEX)TK_Integer=420 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=1000 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    Processing line 45!
+    (LEX)TK_Integer=430 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"OH, COME ON NOW...IT WAS SNOW WHITE."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="OH, COME ON NOW...IT WAS SNOW WHITE."
+    Processing line 46!
+    (LEX)TK_Integer=440 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=470 YYSTATE=3
+    Processing line 47!
+    (LEX)TK_Integer=450 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"GOOD MEMORY!"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="GOOD MEMORY!"
+    Processing line 48!
+    (LEX)TK_Integer=460 YYSTATE=0
+    (LEX)TK_Gosub='GOSUB'
+    (LEX)TK_Integer=600 YYSTATE=3
+    Processing line 49!
+    (LEX)TK_Integer=470 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Processing line 50!
+    (LEX)TK_Integer=480 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=R
+    (normal)basiclval.stype='R'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=4 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=530 YYSTATE=3
+    Processing line 51!
+    (LEX)TK_Integer=490 YYSTATE=0
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=R
+    (normal)basiclval.stype='R'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x60'<'
+    (LEX)TK_Integer=2 YYSTATE=3
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=570 YYSTATE=3
+    Processing line 52!
+    (LEX)TK_Integer=500 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"NOT BAD, BUT YOU MIGHT SPEND A LITTLE MORE TIME"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="NOT BAD, BUT YOU MIGHT SPEND A LITTLE MORE TIME"
+    Processing line 53!
+    (LEX)TK_Integer=510 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"READING THE NURSERY GREATS."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="READING THE NURSERY GREATS."
+    Processing line 54!
+    (LEX)TK_Integer=520 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=590 YYSTATE=3
+    Processing line 55!
+    (LEX)TK_Integer=530 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"WOW! THAT'S SUPER! YOU REALLY KNOW YOUR NURSERY"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="WOW! THAT'S SUPER! YOU REALLY KNOW YOUR NURSERY"
+    Processing line 56!
+    (LEX)TK_Integer=540 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"YOUR NEXT QUIZ WILL BE ON 2ND CENTURY CHINESE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="YOUR NEXT QUIZ WILL BE ON 2ND CENTURY CHINESE"
+    Processing line 57!
+    (LEX)TK_Integer=550 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"LITERATURE (HA, HA, HA)"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="LITERATURE (HA, HA, HA)"
+    Processing line 58!
+    (LEX)TK_Integer=560 YYSTATE=0
+    (LEX)TK_Goto='GOTO'
+    (LEX)TK_Integer=590 YYSTATE=3
+    Processing line 59!
+    (LEX)TK_Integer=570 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HUH. THAT'S DEFINITELY NOT TOO SWIFT.  BACK TO"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HUH. THAT'S DEFINITELY NOT TOO SWIFT.  BACK TO"
+    Processing line 60!
+    (LEX)TK_Integer=580 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"NURSERY SCHOOL FOR YOU, MY FRIEND."'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="NURSERY SCHOOL FOR YOU, MY FRIEND."
+    Processing line 61!
+    (LEX)TK_Integer=590 YYSTATE=0
+    (LEX)TK_End='END'
+    Processing line 62!
+    (LEX)TK_Integer=600 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=R
+    (normal)basiclval.stype='R'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=R
+    (normal)basiclval.stype='R'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x43'+'
+    (LEX)TK_Integer=1 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    (LEX)TK_Return='RETURN'
+    Processing line 63!
+    (LEX)TK_Integer=1000 YYSTATE=0
+    (LEX)TK_Print='PRINT'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+        printfield = 1
+        yytext     = '"HIT ANY KEY TO CONTINUE"'
+        LastToken  = '303'
+    (LEX)TK_QuoteString(PRINTSTMT)="HIT ANY KEY TO CONTINUE"
+    Processing line 64!
+    (LEX)TK_Integer=1010 YYSTATE=0
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=A$
+    (normal)basiclval.stype='A$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_QuoteString='""'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=A$
+    (normal)basiclval.stype='A$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=INKEY$
+    (normal)basiclval.stype='INKEY$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    (LEX)TK_If='IF'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_SName(normal1)=A$
+    (normal)basiclval.stype='A$'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_QuoteString='""'
+    (LEX)TK_Then='THEN'
+    (LEX)TK_Integer=1010 YYSTATE=3
+    Processing line 65!
+    (LEX)TK_Integer=1020 YYSTATE=0
+    (LEX)TK_For='FOR'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=X
+    (normal)basiclval.stype='X'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x61'='
+    (LEX)TK_Integer=1 YYSTATE=3
+    (LEX)TK_To='TO'
+    (LEX)TK_Integer=4 YYSTATE=3
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    (LEX)TK_Print='PRINT'
+    Got some space characters in a print line.
+        printfield = 1
+        lc         = 'C'
+        yytext     = ' '
+        LastToken  = '303'
+    (LEX)TK_SName(PrintStmt)=CHR$
+        printfield = 2
+        yytext     = '('
+        LastToken  = '295'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=27
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    (LEX)TK_SName(PrintStmt)=CHR$
+        printfield = 5
+        yytext     = '('
+        LastToken  = '295'
+    (LEX)NOTYPE<PrintStmt:(>='('
+    (LEX)TK_Integer(PrintStmt)=30
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x41')'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x59';'
+    (LEX)NOTYPE<INITIAL>(.)=(1)0x58':'
+    (LEX)TK_Next='NEXT'
+    isym=-1 name='(null)' sz=0 token=0
+    (LEX)TK_Name(normal6)=X
+    (normal)basiclval.stype='X'
+    Next State=CMD (still)
+    (LEX)NOTYPE<CMD>(.)=(1)0x58':'
+    (LEX)TK_Return='RETURN'
+    Processing line 66!
+    Sorting Symbols ...
+    Grab Labels ...
+    Update Vars ...
+    Mark All Routines ...
+    Display Initial Code ...
+    TStatement::_RtnCount-1=1
+    Fixup targets that are on comments.
+    FixupTargets() stmt:'10 '*************************************'
+    FixupTargets() stmt:'20 '*         PROGRAM WRITTEN BY        *'
+    FixupTargets() stmt:'30 '*           PAMELA McGINLEY         *'
+    FixupTargets() stmt:'40 '*                                   *'
+    FixupTargets() stmt:'50 '*         MODIFICATIONS BY          *'
+    FixupTargets() stmt:'60 '*                                   *'
+    FixupTargets() stmt:'70 '*           ROBERT L. ROACH         *'
+    FixupTargets() stmt:'80 '*************************************'
+    FixupTargets() stmt:'90 ''
+    FixupTargets() stmt:'100 ''
+    FixupTargets() stmt:'105 CLS'
+    FixupTargets() stmt:'110 PRINT TAB(25);"LITERATURE QUIZ"'
+    FixupTargets() stmt:'120 PRINT TAB(15);"CREATIVE COMPUTING MORRISTOWN, NEW JERSEY"'
+    FixupTargets() stmt:'130 PRINT:PRINT:PRINT'
+    FixupTargets() stmt:'140 R=0'
+    FixupTargets() stmt:'150 PRINT"TEST YOUR KNOWLEDGE OF CHILDREN'S LITERATURE."'
+    FixupTargets() stmt:'160 PRINT:PRINT"THIS IS A MULTIPLE-CHOICE QUIZ."'
+    FixupTargets() stmt:'170 PRINT"TYPE A 1, 2, 3, OR 4 AFTER THE QUESTION MARK."'
+    FixupTargets() stmt:'180 PRINT:PRINT"GOOD LUCK!":PRINT:PRINT'
+    FixupTargets() stmt:'190 PRINT"IN PINOCCHIO, WHAT WAS THE NAME OF THE CAT."'
+    FixupTargets() stmt:'200 PRINT"1)TIGGER, 2)CICERO, 3)FIGARO, 4)GUIPETTO";'
+    FixupTargets() stmt:'210 GOSUB 1000:'INPUT A:IF A=3 THEN 230'
+    FixupTargets() stmt:'220 PRINT"SORRY...FIGARO WAS HIS NAME.":GOTO 250'
+    FixupTargets() stmt:'230 PRINT "VERY GOOD!  HERE'S ANOTHER."'
+    FixupTargets() stmt:'240 GOSUB 600'
+    FixupTargets() stmt:'250 PRINT:PRINT'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'260 PRINT"FROM WHOSE GARDEN DID BUGS BUNNY STEAL THE CARROTS ?"'
+    FixupTargets() stmt:'270 PRINT"1)MR. NIXON'S 2)ELMER FUDD'S, 3)CLEM JUDD'S, 4)STROMBOLI'S";'
+    FixupTargets() stmt:'275 GOSUB 1000:'INPUT A'
+    FixupTargets() stmt:'280 IF A=2 THEN 300'
+    FixupTargets() stmt:'290 PRINT"TOO BAD....IT WAS ELMER FUDD'S GARDEN.":GOTO 320'
+    FixupTargets() stmt:'300 PRINT"PRETTY GOOD!"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'310 GOSUB 600'
+    FixupTargets() stmt:'320 PRINT:PRINT'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'330 PRINT "IN THE WIZARD OF OZ DORTHY'S DOG WAS NAMED ?"'
+    FixupTargets() stmt:'340 PRINT"1)CICERO, 2)TRIXIE, 3)KING, 4)TOTO";'
+    FixupTargets() stmt:'350 GOSUB 1000:'INPUT A:IF A=4 THEN 370'
+    FixupTargets() stmt:'360 PRINT"BACK TO THE BOOKS,....TOTO WAS HIS NAME.":GOTO 390'
+    FixupTargets() stmt:'370 PRINT"YEA!  YOU'RE A REAL LITERATURE GIANT."'
+    FixupTargets() stmt:'380 GOSUB 600'
+    FixupTargets() stmt:'390 PRINT:PRINT'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'400 PRINT"WHO WAS THE FAIR MAIDEN WHO ATE THE POISON APPLE ?"'
+    FixupTargets() stmt:'410 PRINT"1)SLEEPING BEAUTY, 2)CINDERELLA, 3)SNOW WHITE, 4)WENDY";'
+    FixupTargets() stmt:'420 GOSUB 1000:'INPUT A:IF A=3 THEN 450'
+    FixupTargets() stmt:'430 PRINT"OH, COME ON NOW...IT WAS SNOW WHITE."'
+    FixupTargets() stmt:'440 GOTO 470'
+    FixupTargets() stmt:'450 PRINT"GOOD MEMORY!"'
+    FixupTargets() stmt:'460 GOSUB 600'
+    FixupTargets() stmt:'470 PRINT:PRINT'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'480 IF R=4 THEN 530'
+    FixupTargets() stmt:'490 IF R<2 THEN 570'
+    FixupTargets() stmt:'500 PRINT"NOT BAD, BUT YOU MIGHT SPEND A LITTLE MORE TIME"'
+    FixupTargets() stmt:'510 PRINT"READING THE NURSERY GREATS."'
+    FixupTargets() stmt:'520 GOTO 590'
+    FixupTargets() stmt:'530 PRINT"WOW! THAT'S SUPER! YOU REALLY KNOW YOUR NURSERY"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'540 PRINT"YOUR NEXT QUIZ WILL BE ON 2ND CENTURY CHINESE"'
+    FixupTargets() stmt:'550 PRINT"LITERATURE (HA, HA, HA)"'
+    FixupTargets() stmt:'560 GOTO 590'
+    FixupTargets() stmt:'570 PRINT"HUH. THAT'S DEFINITELY NOT TOO SWIFT.  BACK TO"'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'580 PRINT"NURSERY SCHOOL FOR YOU, MY FRIEND."'
+    FixupTargets() stmt:'590 END'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'600 R=R+1:RETURN'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1000 PRINT:PRINT"HIT ANY KEY TO CONTINUE"'
+    FixupTargets() stmt:'1010 A$="":A$=INKEY$:IF A$="" THEN 1010'
+      Target is GOSUB or GOTO
+    FixupTargets() stmt:'1020 FOR X=1 TO 4:PRINT CHR$(27);CHR$(30);:NEXT X:RETURN'
+    Finished FixupTargets
+    Split Overlapping Subroutines ...
+    Straighten Overlapping Subroutines ...
+    Renumber Source ...
+    Display Empty Code Ranges ...
+    Display Symbol Table ...
+    Display of final 'clean' BASIC listing ...
+    TStatement::_RtnCount-1=1
+    Finished!!!
+<--- int main(int, char**) /media/Infinity/dev/BasicGames/b2c/b2c.cpp[2210]
